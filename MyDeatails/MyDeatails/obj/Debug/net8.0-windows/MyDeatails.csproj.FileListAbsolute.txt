@@ -1,0 +1,48 @@
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.exe
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.deps.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.runtimeconfig.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.Form1.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\refint\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\ref\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.Up2Date
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.exe
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.deps.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.runtimeconfig.json
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\MyDeatails.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.Form1.resources
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.csproj.Up2Date
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\refint\MyDeatails.dll
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.pdb
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\MyDeatails.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Zoom Lec Advance Computer Programming\New folder\MyDeatails\MyDeatails\obj\Debug\net8.0-windows\ref\MyDeatails.dll
